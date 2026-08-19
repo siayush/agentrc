@@ -1,11 +1,6 @@
 ---
 name: write-html
 description: Use when the user asks to communicate through an HTML document or if they mention "HTML" with no additional context.
-metadata:
-  harness: [claude, codex]
-  platform: [darwin, linux]
-  scope: agentrc
-  requires: "npx (postplan is run via npx)"
 ---
 
 # HTML Communication

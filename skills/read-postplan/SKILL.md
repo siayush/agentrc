@@ -1,11 +1,6 @@
 ---
 name: read-postplan
 description: Use when the user provides a postplan dev URL to read.
-metadata:
-  harness: [claude, codex]
-  platform: [darwin, linux]
-  scope: agentrc
-  requires: "curl"
 ---
 
 # Postplan Read
