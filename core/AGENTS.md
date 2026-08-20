@@ -23,6 +23,10 @@ I wanted to share some of my preferences here so we can be more aligned as we wo
 - Do not spawn subagents or a multi-agent panel for work a single agent finishes in one pass. Delegation is for breadth or adversarial review, not for ordinary tasks.
 - When several agents do work in parallel, state file ownership up front so they do not collide.
 
+## Writing
+
+- Run the `unslop` skill on all human facing prose before delivering it. Your reply to me is prose too - this includes chat answers, docs, PR descriptions, commits, and reports.
+
 ## Visual and design work
 
 - Standing constraints: dark mode, true black (#000) background, white primary text. Information-dense, no decorative card/pill chrome, no light-gray subtitle lines above sections. Minimal copy. No em dashes.
