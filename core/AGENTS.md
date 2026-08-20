@@ -27,10 +27,3 @@ I wanted to share some of my preferences here so we can be more aligned as we wo
 
 - Standing constraints: dark mode, true black (#000) background, white primary text. Information-dense, no decorative card/pill chrome, no light-gray subtitle lines above sections. Minimal copy. No em dashes.
 - Avoid continuously repainting CSS animations (pulse, shimmer, blur, spinners); they peg the GPU on high-refresh displays.
-
-## Pull Requests
-
-- Make sure titles follow conventions from the repo. They should be simple and easy to understand. Conventional commit styles in projects that use them, i.e. "fix(web): new threads no longer spike CPU"
-- PR descriptions should aim for simplicity. Open with a minimal, clear description of the problem. Follow up with how you solved it.
-- Open a real PR, not a draft. Drafts do not get review-bot coverage.
-- For filing and monitoring a PR (handling bot feedback, merge disposition), follow the `file-pr` and `babysit-pr` skills. They are the source of truth.
