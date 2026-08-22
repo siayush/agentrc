@@ -1,6 +1,8 @@
 ---
 name: read-postplan
 description: Use when the user provides a postplan dev URL to read.
+metadata:
+  source: theo
 ---
 
 # Postplan Read

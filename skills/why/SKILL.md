@@ -1,6 +1,8 @@
 ---
 name: why
 description: "Use for 'why does X work this way', 'why we picked Y', design rationale, regressions, or where a threshold came from. Searches the two records that live on this machine, git history (commits, diffs, blame, PRs and review threads via gh) and written records committed to the repo (ADRs, design docs, postmortems, runbooks, CHANGELOG, config as code), then returns a cited, confidence-calibrated read on the decision. Needs no credentials or external services, and says where the trail leaves the repo. Use how for runtime behavior."
+metadata:
+  source: pstack
 ---
 
 # Why

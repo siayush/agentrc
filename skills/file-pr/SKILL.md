@@ -1,6 +1,8 @@
 ---
 name: file-pr
 description: File a concise pull request. Use when the user asks to file, open, create or submit a PR.
+metadata:
+  source: theo
 ---
 
 # File PR

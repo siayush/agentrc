@@ -1,6 +1,8 @@
 ---
 name: write-html
 description: Use when the user asks to communicate through an HTML document or if they mention "HTML" with no additional context.
+metadata:
+  source: theo
 ---
 
 # HTML Communication
